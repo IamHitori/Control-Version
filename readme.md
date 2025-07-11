@@ -3,7 +3,7 @@
 **Fecha de reporte:** 10 de julio de 2025  
 **Desarrollador:** Damian Muñiz  
 **Aplicación:** GEDOC – Gestor de Descargas por SFTP  
-**Versión actual:** `v1.1.5`
+**Versión actual:** `v1.2.5`
 
 ---
 
